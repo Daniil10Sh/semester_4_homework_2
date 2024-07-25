@@ -1,0 +1,15 @@
+.slider {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .slider__input {
+    width: 100%;
+  }
+  
+  .img1, .img2, .img3 {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+  }
+  
